@@ -905,10 +905,10 @@ async def cb_handler(client: Client, query: CallbackQuery):
         )
     elif query.data == "updatesane":
         buttons = [[
-            InlineKeyboardButton('Mᴏᴠɪᴇ Uᴩᴅᴀᴛᴇꜱ', url='https://t.me/movies_channel001'),
-            InlineKeyboardButton('Gʀᴏᴜᴩ', url='https://t.me/+X90aS7BxYqI3ZWQ1')
+            InlineKeyboardButton('Mᴏᴠɪᴇ Uᴩᴅᴀᴛᴇꜱ', url='https://t.me/movieadholokammain'),
+            InlineKeyboardButton('Gʀᴏᴜᴩ', url='https://t.me/movieadholokam')
             ],[
-            InlineKeyboardButton('Bᴏᴛ Uᴩᴅᴀᴛᴇꜱ', url='https://t.me/Ak_Links1')
+            InlineKeyboardButton('Bᴏᴛ Uᴩᴅᴀᴛᴇꜱ', url='https://t.me/movieadholokammain')
             ],[
             InlineKeyboardButton('Bᴀᴄᴋ Tᴏ Sᴛᴀʀᴛ', callback_data='start')
         ]]
@@ -920,7 +920,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
         )
     elif query.data == "ownerane":
         buttons = [[
-            InlineKeyboardButton('📞 Cᴏɴᴛᴀᴄᴛ', url='https://t.me/psycho_009'),
+            InlineKeyboardButton('📞 Cᴏɴᴛᴀᴄᴛ', url='https://t.me/ff_amalshan'),
             InlineKeyboardButton('ʙᴀᴄᴋ', callback_data='start')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
