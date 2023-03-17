@@ -302,8 +302,8 @@ My Nᴀᴍᴇ Iꜱ <a href=https://t.me/{}>{}</a>, I ᴄᴀɴ Pʀᴏᴠɪᴅᴇ 
     CUSTOM_FILE_CAPTION = """<b>📂Fɪʟᴇɴᴀᴍᴇ : <code>{file_name}</code>
 
 ╔════ ᴊᴏɪɴ ᴡɪᴛʜ ᴜs ════╗
-➪<a href=https://t.me/Ak_moviesgroup> Aᴋ Mᴏᴠɪᴇꜱ</a>
-➪<a href=https://t.me/movies_channel001> Uᴩᴅᴀᴛᴇ Cʜᴀɴɴᴇʟ​ </a>
+➪<a href=https://t.me/movieadholokam> ɢʀᴏᴜᴩ</a>
+➪<a href=https://t.me/movies_channel001> ᴄʜᴀɴɴᴇʟ​ </a>
 ╚════ ᴊᴏɪɴ ᴡɪᴛʜ ᴜs ════╝</b>"""
 
     RESTART_TXT = """
