@@ -1109,8 +1109,8 @@ async def cb_handler(client: Client, query: CallbackQuery):
         )
     elif query.data == "deploy":
         buttons = [[
-           InlineKeyboardButton('ʀᴇᴘᴏ', url='https://github.com/matrixbotz0/PETER-PARKER-BOT'),
-           InlineKeyboardButton('ᴏᴡɴᴇʀ', url='https://t.me/psycho_009')
+           InlineKeyboardButton('ɢʀᴏᴜᴩ', url='https://t.me/movieadholokam'),
+           InlineKeyboardButton('ᴏᴡɴᴇʀ', url='https://t.me/ff_amalshan')
         ], [
             InlineKeyboardButton('ʙᴀᴄᴋ', callback_data='help')
         ]]
