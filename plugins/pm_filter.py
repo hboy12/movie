@@ -811,7 +811,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
             InlineKeyboardButton('Hᴏᴍᴇ', callback_data='start'),
             InlineKeyboardButton('Sᴛᴀᴛᴜꜱ', callback_data='stats')
             ],[
-            InlineKeyboardButton('Uᴩᴅᴀᴛᴇꜱ', url='https://t.me/movies_channel001')
+            InlineKeyboardButton('Uᴩᴅᴀᴛᴇꜱ', url='https://t.me/movieadholokammain')
          ]] 
         reply_markup = InlineKeyboardMarkup(buttons)             
         await query.message.edit_text(                     
@@ -874,7 +874,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
     elif query.data == "about":
         buttons = [[
             InlineKeyboardButton('Uᴩᴅᴀᴛᴇꜱ', callback_data='updates'),
-            InlineKeyboardButton('ʀᴇᴘᴏ', url='https://github.com/matrixbotz0/PETER-PARKER-BOT'),
+            InlineKeyboardButton('ɢʀᴏᴜᴩ', url='https://t.me/movieadholokam'),
         ],[
             InlineKeyboardButton('ʜᴏᴍᴇ', callback_data='start'),
             InlineKeyboardButton('ᴄʟᴏsᴇ', callback_data='close_data')
@@ -892,8 +892,8 @@ async def cb_handler(client: Client, query: CallbackQuery):
         )
     elif query.data == "updates":
         buttons = [[
-            InlineKeyboardButton('Sᴜᴩᴩᴏʀᴛ Gʀᴏᴜᴩ', url='https://t.me/MLZ_BOTZ_SUPPORT'),
-            InlineKeyboardButton('Bᴏᴛ Uᴩᴅᴀᴛᴇꜱ', url='https://t.me/MLZ_BOTZ')
+            InlineKeyboardButton('Sᴜᴩᴩᴏʀᴛ Gʀᴏᴜᴩ', url='https://t.me/movieadholokam'),
+            InlineKeyboardButton('Bᴏᴛ Uᴩᴅᴀᴛᴇꜱ', url='https://t.me/movieadholokammain')
             ],[
             InlineKeyboardButton('ʙᴀᴄᴋ', callback_data='about')
         ]]
