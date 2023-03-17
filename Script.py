@@ -303,7 +303,7 @@ My Nᴀᴍᴇ Iꜱ <a href=https://t.me/{}>{}</a>, I ᴄᴀɴ Pʀᴏᴠɪᴅᴇ 
 
 ╔════ ᴊᴏɪɴ ᴡɪᴛʜ ᴜs ════╗
 ➪<a href=https://t.me/movieadholokam> ɢʀᴏᴜᴩ</a>
-➪<a href=https://t.me/movies_channel001> ᴄʜᴀɴɴᴇʟ​ </a>
+➪<a href=https://t.me/movieadholokammain> ᴄʜᴀɴɴᴇʟ​ </a>
 ╚════ ᴊᴏɪɴ ᴡɪᴛʜ ᴜs ════╝</b>"""
 
     RESTART_TXT = """
