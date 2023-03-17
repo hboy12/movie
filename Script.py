@@ -22,7 +22,7 @@ My Nᴀᴍᴇ Iꜱ <a href=https://t.me/{}>{}</a>, I ᴄᴀɴ Pʀᴏᴠɪᴅᴇ 
     
 • ꜰᴜʟʟ ɴᴀᴍᴇ : ᴋɪʟʟᴇʀ ʀᴏᴄᴋʏᠰ TɢX
 • ᴜꜱᴇʀɴᴀᴍᴇ : @ff_amalshan
-• ᴘᴇʀᴍᴀɴᴇɴᴛ ᴅᴍ ʟɪɴᴋ : <a href=https://t.me/psycho_009>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a></b>"""
+• ᴘᴇʀᴍᴀɴᴇɴᴛ ᴅᴍ ʟɪɴᴋ : <a href=https://t.me/ff_amalshan>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a></b>"""
 
     
     MANUELFILTER_TXT = """Help: <b>Filters</b>
