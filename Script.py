@@ -281,7 +281,7 @@ Name - {}
     SUR_TXT = """
 <b>
 Hᴀɪ {},
-My Nᴀᴍᴇ Iꜱ <a href=https://t.me/{}>{}</a>, I ᴄᴀɴ Pʀᴏᴠɪᴅᴇ Mᴏᴠɪᴇꜱ, Jᴜꜱᴛ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴩ Aɴᴅ Mᴀᴋᴇ Mᴇ Aᴅᴍɪɴ...... Tʜᴇɴ Sᴇᴇ My Pᴏᴡᴇʀꜱ💥💥🔥\n\n©Mᴀɪɴᴛᴀɪɴᴇᴅ ʙy: <a href=https://t.me/psycho_009>『ƬǤ』×͜×ʟᴇɢᴇɴᴅ𓄀</a> 
+My Nᴀᴍᴇ Iꜱ <a href=https://t.me/{}>{}</a>, I ᴄᴀɴ Pʀᴏᴠɪᴅᴇ Mᴏᴠɪᴇꜱ, Jᴜꜱᴛ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴩ Aɴᴅ Mᴀᴋᴇ Mᴇ Aᴅᴍɪɴ...... Tʜᴇɴ Sᴇᴇ My Pᴏᴡᴇʀꜱ💥💥🔥\n\n©Mᴀɪɴᴛᴀɪɴᴇᴅ ʙy: <a href=https://t.me/ff_amalshan>ᴋɪʟʟᴇʀ ʀᴏᴄᴋʏᠰ TɢX</a> 
 </b>
 """
 
