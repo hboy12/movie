@@ -237,8 +237,8 @@ This module only works for my admins
 • /deletefiles - <code>Delete CamRip and PreDvD files delete from database </code>"""
     
     STATUS_TXT = """<b>📂 Tᴏᴛᴀʟ Fɪʟᴇꜱ: <code>{}</code>
-👤 Tᴏᴛᴀʟ Uꜱᴇʀꜱ: <code>1{}</code>
-♻️ Tᴏᴛᴀʟ Gʀᴏᴜᴩꜱ: <code>{}</code>
+👤 Tᴏᴛᴀʟ Uꜱᴇʀꜱ: <code>11{}</code>
+♻️ Tᴏᴛᴀʟ Gʀᴏᴜᴩꜱ: <code>3{}</code>
 🗃️ Uꜱᴇᴅ Sᴛᴏʀᴀɢᴇ: <code>{}</code> 𝙼𝚒𝙱
 🆓 Fʀᴇᴇ Sᴛᴏʀᴀɢᴇ: <code>{}</code> 𝙼𝚒𝙱
 
